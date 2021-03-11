@@ -1,0 +1,35 @@
+label {
+
+ display: block
+
+}
+
+div {
+
+  width: 500px;
+  border: solid 8px;
+  padding: 8px;
+}
+
+
+form  {
+
+  box-sizing: border-box;
+
+
+}
+
+
+label  {
+
+display: block;
+}
+
+div {
+
+width: 400px; 
+border-radius: 0em;
+border: solid 4px;
+}
+
+

@@ -1,0 +1,51 @@
+body {
+
+  background-color:#bdc3c7 ;
+}
+
+h1 {
+
+ color:#9b59b6 ;
+
+}
+
+h2 {
+
+  color:orange;
+
+}
+
+li {
+  
+color: blue;
+
+}
+
+p{
+ background-color:yellow ;
+  font:size25px; 
+}
+
+input {
+  border-style:red 3px;
+ background-color: gray;
+ }
+
+section p3 {
+ background-color:pink ;
+
+}
+
+section p2{
+  border: 5px;
+  border-style:white ;
+}
+div {
+
+  background-color:pink;
+}
+
+# {
+ border-style:solid 2px;
+
+}
