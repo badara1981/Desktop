@@ -1,0 +1,95 @@
+body {
+    height: 200vh;
+}
+
+span {
+    margin-top: 100px;
+    width: 200px;
+    margin: auto;
+}
+
+div {
+    width: 600px;
+    margin: auto;
+    margin-top: 100px;   
+    border: solid 1px black;
+    position: relative;
+}
+
+#space {
+    border: none;
+    margin-top: 100px;
+    text-align: center;
+}
+
+span {
+    display: inline-block;
+    margin: 10px 10px;
+    font-weight: bold;
+}
+
+#spacespan {
+    width: 500px;
+}
+
+p {
+    border: solid 1px black;
+    background-color: yellow;
+    height: 100px;
+    width: 200px;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+/* Targeting the element we want to change */
+#tochange {
+
+    /* Do not change this CSS! */
+    background-color: rgba(0,0,255,0.8);
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+    /* Your CSS goes under here! */
+     /* position static */
+
+           /*A*/
+         /* position relative */
+
+
+
+              /*B*/
+        /*position: relative;*/
+        
+         /*bottom: 100px;*/ 
+
+         /*right:200px;*/
+        
+         /*top:312px;
+         left:200px;*/
+
+       /*top: 212px;
+       left: 200px;*/
+
+            /*C*/
+       /*position: fixed;*/
+      /*top:0px;*/
+      
+     /*left:0px;
+     top:0px;*/
+   
+    /*right:0px;
+    bottom:0px;*/
+ 
+    /*bottom: 115px;
+    right: 500px;*/
+
+  /*position:absolute;*/
+
+ /*bottom:-110px;
+ left: 0px;*/
+ /* the exercise is done */
+}
